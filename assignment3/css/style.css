@@ -1,0 +1,11 @@
+#navbar {
+    background-color: darkslategray;
+}
+
+#navbar a {
+    color: floralwhite;
+}
+
+#collapsable-nav {
+    background-color: slategray;
+}
